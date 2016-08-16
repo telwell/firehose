@@ -1,5 +1,3 @@
-require 'rspec'
-require_relative '../LinkedList'
 require_relative '../LinkedListNode'
 
 RSpec.describe 'Stack' do

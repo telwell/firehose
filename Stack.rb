@@ -1,5 +1,6 @@
 require_relative 'LinkedListNode'
 
+
 class Stack
   
   
